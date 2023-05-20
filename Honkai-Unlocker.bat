@@ -115,7 +115,7 @@ ECHO - Made by Mahele
 ECHO:
 ECHO   You unlocked your FPS and applied the %graphic% preset!
 ECHO:
-ECHO   -Press ENTER to go back to Start-
+ECHO   -Press any Key to go back to Start-
 ECHO:
 pause
 GOTO Start
@@ -173,7 +173,7 @@ REG DELETE "HKEY_CURRENT_USER\SOFTWARE\Cognosphere\Star Rail" /v "GraphicsSettin
   ECHO   You already deleted the unlock!
 )
 ECHO:
-ECHO   -Press ENTER to go back to Start-
+ECHO   -Press any Key to go back to Start-
 ECHO:
 pause
 GOTO Start
